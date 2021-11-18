@@ -1,6 +1,6 @@
 # Ex1 - the elevator mission - offline algorithm
 ![This is an image](https://user-images.githubusercontent.com/2201475/54477352-343e9b80-4807-11e9-9ee2-86595d06d702.png)
-![This is an image](UML.png)
+
 
 #### ID of presenters: 315858506,316156108
 
@@ -41,6 +41,9 @@ quality job which explaines the principle's of the elevator's movement and gave 
 
 
 ### Class diagram
+![This is an image](UML.png)
+
+### Results
 | Building/Calls| a                 |b                    |c                   |d                   |
 | --------------|:-----------------:| -------------------:|-------------------:| ------------------:|
 | B1            | aveTime:112, Uc=0 |                     |                    |                    |   
