@@ -3,11 +3,11 @@
 #### ID of presenters: 315858506,316156108
 
 ### Table of contents:
-* Sources(Literature survey)
+* [Sources(Literature survey)](#Sources(Literature survey)
 * [Problem space](#Problem-space)
-* Classes structure
-* Algorithm's principle
-* Algorithm structure
+* [Classes structure](#Classes-structure)
+* [Algorithm's principle](#Algorithm's-principle)
+* [Algorithm structure](#Algorithm-structure)
 * [Class diagram](#Class-diagram)
 * [Results](#Results)
 
