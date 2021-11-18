@@ -8,7 +8,7 @@
 * Classes structure
 * Algorithm's principle
 * Algorithm structure
-* Class diagram
+* [Class diagram](#Class diagram)
 * [Results](#Results)
 
 ###  Sources(Literature survey):
