@@ -1,5 +1,5 @@
 # Ex1 - the elevator mission - offline algorithm
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://user-images.githubusercontent.com/2201475/54477352-343e9b80-4807-11e9-9ee2-86595d06d702.png)
 #### ID of presenters: 315858506,316156108
 
 ### Table of contents:
