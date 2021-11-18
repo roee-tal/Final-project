@@ -40,10 +40,12 @@ Every time
 
 
 ### Class diagram
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Building/Calls| a                 |b                    |c                   |d                   |
+| --------------|:-----------------:| -------------------:|-------------------:| ------------------:|
+| B1            | aveTime:112, Uc=0 |                     |                    |                    |   
+| B2            | aveTime:51, Uc=0  |                     |                    |                    |  
+| B3            | aveTime:29, Uc=0  | aveTime:508, Uc=144 | aveTime:554, Uc=92 | aveTime:515, Uc=101|                        
+| B4            | aveTime:17, Uc=0  | aveTime:183, Uc=15  | aveTime:189, Uc=0  | aveTime:175, Uc=0  |
+| B5            | aveTime:11, Uc=0  | aveTime:38,  Uc=0   | aveTime:36, Uc=0   | aveTime:37 Uc=0    | 
 
 
