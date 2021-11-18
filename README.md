@@ -1,5 +1,5 @@
 # Ex1 - the elevator mission - offline algorithm
-![This is an image](https://www.pexels.com/photo/modern-geometric-building-with-moving-elevators-6249432/)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 #### ID of presenters: 315858506,316156108
 
 ### Table of contents:
