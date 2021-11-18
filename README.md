@@ -4,11 +4,11 @@
 
 ### Table of contents:
 * Sources(Literature survey)
-* [Problem space](###Problem-space:)
+* [Problem space](#Problem-space:)
 * Classes structure
 * Algorithm's principle
 * Algorithm structure
-* [Class diagram](#Class diagram)
+* [Class diagram](#Class-diagram)
 * [Results](#Results)
 
 ###  Sources(Literature survey):
