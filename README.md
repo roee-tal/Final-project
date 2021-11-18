@@ -4,7 +4,7 @@
 
 ### Table of contents:
 * Sources(Literature survey)
-* [Problem space](#problem space:)
+* [Problem space](#Problem-space:)
 * Classes structure
 * Algorithm's principle
 * Algorithm structure
@@ -20,7 +20,7 @@ quality job which explaines the principle's of the elevator's movement and gave 
 >[Source #3](https://www.i-programmer.info/programmer-puzzles/203-sharpen-your-coding-skills/4561-sharpen-your-coding-skills-elevator-puzzle.html?start=1) - also good principle's of the elevator's movement and emphasis to weak point on designing elevator's movement.
 
 
-### problem space:
+### Problem space:
 >We will notice that unlike the online situation, which there the calls are not given and we have no idea about the call details before it called, in the offline situation the whole calls are given to us, we have more data to work with. Therefore, the decision making can conider future data, so the calculate might be more complicated. Moreover, the position of the elevator are not given to us, which means we had to calculate good estimate about the position. Also, in this project we worked with files as json, so we had 'to exchange' in a good way the 'keys' to fiels into the classes that we create so we can use them.
 
 
