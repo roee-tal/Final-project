@@ -34,7 +34,7 @@ quality job which explaines the principle's of the elevator's movement and gave 
 
 
 ### Algorithm's principle:
-Every time
+>Every time
 
 
 
