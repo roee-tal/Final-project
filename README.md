@@ -9,8 +9,7 @@
 * Algorithm's principle
 * Algorithm structure
 * Class diagram
-* Results
-
+* [Results](#Results)
 
 ###  Sources(Literature survey):
 >[Source #1](https://softwareengineering.stackexchange.com/questions/331692/what-algorithm-is-used-by-elevators-to-find-the-shortest-path-to-travel-floor-or) - great answers to cut the total waiting times.
